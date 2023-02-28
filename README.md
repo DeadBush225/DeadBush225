@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eliazar-sll
-- 👀 I’m interested in python and software programming
-- 🌱 I’m currently learning pyqt5 and c++
+- 👀 I’m interested in python, desktop and web development
+- 🌱 I’m currently learning pyqt5, c++ and qt
 - 😄 I've always loved using open source softwares which helped greatly helped me so, I'm looking forward to help others with my work
 
 <!---
