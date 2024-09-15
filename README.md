@@ -1,6 +1,6 @@
  - 📚 Interested in python, desktop and web development
  - 🌱 Currently learning pyqt5, c++ and qt
- - 🔥 Always loved using open source softwares which helped greatly helped me so, 
+ - 🔥 Always loved using open source softwares which greatly helped me so, 
 
 Looking forward to help others with my work
 
